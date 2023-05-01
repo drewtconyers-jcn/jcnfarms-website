@@ -1,0 +1,365 @@
+.linkedInNegative.linkedInNegative {
+  left: 106px;
+  top: 2361px;
+}
+.instagramNegative.instagramNegative {
+  left: 190px;
+  top: 2361px;
+}
+.root {
+  position: relative;
+  width: 1920px;
+  height: 2559px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1920px;
+  height: 1080px;
+  background-color: #000;
+}
+.outsideContainer1 {
+  position: absolute;
+  left: -187px;
+  top: 0;
+  width: 2282.5674px;
+  opacity: 0.5;
+  height: 1080px;
+  background-image:/* webpackIgnore: true */ url('/assets/outsideContainer1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mUSHROOMCONTAINER {
+  color: #fff;
+  font-size: 120px;
+  font-family: Garet, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 216px;
+  top: 412px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.greenhouseBaskets1 {
+  position: absolute;
+  left: -11px;
+  top: 0;
+  width: 1930px;
+  height: 866px;
+}
+.overview {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 530px;
+  top: 69px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.untitledDesignCopy3 {
+  position: absolute;
+  left: 64px;
+  top: 53px;
+  width: 288px;
+  height: 67px;
+  background-image:/* webpackIgnore: true */ url('/assets/untitledDesignCopy3.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.agriculture {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 707px;
+  top: 69px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.technology {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 902px;
+  top: 69px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.produce {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1105px;
+  top: 69px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.sustainability {
+  color: #4dab2d;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1264px;
+  top: 69px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle8 {
+  position: absolute;
+  left: 0;
+  top: 2161px;
+  width: 1920px;
+  height: 336px;
+  background-color: #070707;
+}
+._20230217_10213841 {
+  position: absolute;
+  left: 0;
+  top: 2161px;
+  width: 1920px;
+  opacity: 0.3;
+  height: 336px;
+  background-image:/* webpackIgnore: true */ url('/assets/_20230217_10213841.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.untitledDesignCopy2 {
+  position: absolute;
+  left: 72px;
+  top: 2200px;
+  width: 332px;
+  height: 77px;
+  background-image:/* webpackIgnore: true */ url('/assets/untitledDesignCopy2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.copyright2023JCNFarmsAllRights {
+  color: #000;
+  font-size: 30px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 493px;
+  top: 2509px;
+  width: 989px;
+  height: 50px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.infoJcnfarmsCom {
+  color: #fff;
+  font-size: 25px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 106px;
+  top: 2289px;
+  width: 989px;
+  height: 50px;
+  flex-direction: column;
+}
+.vector {
+  position: absolute;
+  left: 5.5208%;
+  right: 91.9792%;
+  top: 39.649%;
+  bottom: 59.4892%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.uN1 {
+  position: absolute;
+  left: 1px;
+  top: 749px;
+  width: 1919px;
+  height: 443px;
+  background-image:/* webpackIgnore: true */ url('/assets/uN1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.introducesAUniqueAndProteinRic {
+  color: #000;
+  font-size: 35px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 372px;
+  top: 1271px;
+  width: 1364px;
+  height: min-content;
+  flex-direction: column;
+}
+._2 {
+  color: #d19f2a;
+  font-size: 120px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 238px;
+  top: 1231px;
+  width: 56px;
+  height: min-content;
+  flex-direction: column;
+}
+.containerBasedAgriculturalProd {
+  color: #000;
+  font-size: 35px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 372px;
+  top: 1435px;
+  width: 1278px;
+  height: min-content;
+  flex-direction: column;
+}
+._8 {
+  color: #8f1838;
+  font-size: 120px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 238px;
+  top: 1405px;
+  width: 56px;
+  height: min-content;
+  flex-direction: column;
+}
+.highLevelOfLocalScalabilityPro {
+  color: #000;
+  font-size: 35px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 372px;
+  top: 1609px;
+  width: 1364px;
+  height: min-content;
+  flex-direction: column;
+}
+._9 {
+  color: #f36d25;
+  font-size: 120px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 238px;
+  top: 1579px;
+  width: 56px;
+  height: min-content;
+  flex-direction: column;
+}
+.minimizingWasteAndUtilizingSus {
+  color: #000;
+  font-size: 35px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 372px;
+  top: 1783px;
+  width: 1364px;
+  height: min-content;
+  flex-direction: column;
+}
+._12 {
+  color: #cf8d2a;
+  font-size: 120px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 185px;
+  top: 1753px;
+  width: 110px;
+  height: min-content;
+  flex-direction: column;
+}
+.createsMultiNationalPartnershi {
+  color: #000;
+  font-size: 35px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 372px;
+  top: 1957px;
+  width: 1364px;
+  height: min-content;
+  flex-direction: column;
+}
+._17 {
+  color: #183668;
+  font-size: 120px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 185px;
+  top: 1927px;
+  width: 110px;
+  height: min-content;
+  flex-direction: column;
+}
+.ellipse2 {
+  position: absolute;
+  left: 113px;
+  top: 412px;
+  width: 58px;
+  height: 58px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.line3 {
+  position: absolute;
+  left: 130px;
+  top: 499px;
+  width: 24px;
+  max-width: 100%;
+  height: 4px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}

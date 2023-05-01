@@ -1,0 +1,426 @@
+.linkedInNegative.linkedInNegative {
+  left: 106px;
+  top: 4050.1816px;
+}
+.instagramNegative.instagramNegative {
+  left: 190px;
+  top: 4050.1816px;
+}
+.root {
+  position: relative;
+  width: 1920px;
+  height: 4248px;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle8 {
+  position: absolute;
+  left: 0;
+  top: 3850.1816px;
+  width: 1920px;
+  height: 336px;
+  background-color: #070707;
+}
+.rectangle11 {
+  position: absolute;
+  left: 845px;
+  top: 1453px;
+  width: 1075px;
+  height: 400px;
+  background-color: #070707;
+}
+._20230217_10213841 {
+  position: absolute;
+  left: 0;
+  opacity: 0.3;
+  top: 3850.1816px;
+  width: 1920px;
+  height: 336px;
+  background-image:/* webpackIgnore: true */ url('/assets/_20230217_10213841.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.iMG_97521 {
+  position: absolute;
+  left: 845px;
+  top: 1453px;
+  width: 1090px;
+  opacity: 0.3;
+  height: 400px;
+  background-image:/* webpackIgnore: true */ url('/assets/iMG_97521.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.untitledDesignCopy2 {
+  position: absolute;
+  left: 72px;
+  top: 3889.1816px;
+  width: 332px;
+  height: 77px;
+  background-image:/* webpackIgnore: true */ url('/assets/untitledDesignCopy2.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.copyright2023JCNFarmsAllRights {
+  color: #000;
+  font-size: 30px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 493px;
+  top: 4198.1816px;
+  width: 989px;
+  height: 50px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.infoJcnfarmsCom {
+  color: #fff;
+  font-size: 25px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 106px;
+  top: 3978.1816px;
+  width: 989px;
+  height: 50px;
+  flex-direction: column;
+}
+.vector {
+  position: absolute;
+  left: 5.5208%;
+  right: 91.9792%;
+  top: 47.6675%;
+  bottom: 51.4708%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.plantMicrobialFuelCell {
+  color: #000;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 728px;
+  top: 143px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.vine {
+  color: #5d5d5f;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1130px;
+  top: 143px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle3 {
+  position: absolute;
+  left: 730px;
+  top: 174px;
+  width: 315px;
+  height: 3px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.vertRender1 {
+  position: absolute;
+  left: -359px;
+  top: 1850px;
+  width: 1589px;
+  height: 894px;
+  background-image:/* webpackIgnore: true */ url('/assets/vertRender1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.energyCost1 {
+  position: absolute;
+  left: 0;
+  top: 1453px;
+  width: 845px;
+  height: 400px;
+  background-image:/* webpackIgnore: true */ url('/assets/energyCost1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jcnLogoBlack1 {
+  position: absolute;
+  left: 84px;
+  top: 18px;
+  width: 253px;
+  height: 142px;
+  background-image:/* webpackIgnore: true */ url('/assets/jcnLogoBlack1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.overview {
+  color: #000;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 530px;
+  top: 69px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.agriculture {
+  color: #000;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 707px;
+  top: 69px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.technology {
+  color: #4dab2d;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 902px;
+  top: 69px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.produce {
+  color: #000;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1105px;
+  top: 69px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.sustainability {
+  color: #000;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1264px;
+  top: 69px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.energyUsageCanAccountForUpTo60 {
+  position: absolute;
+  left: 909px;
+  top: 1623px;
+  width: 950px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 30px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.textBlock2 {
+  margin-top: 0;
+}
+.labelWrapper {
+  font-size: 30px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.textBlock3 {
+  margin-top: 0;
+}
+.labelWrapper2 {
+  font-size: 30px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #fff;
+  font-size: 30px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.textBlock4 {
+  margin-top: 0;
+}
+.labelWrapper3 {
+  font-size: 30px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.textBlock5 {
+  margin-top: 0;
+  color: #4dab2d;
+  font-size: 30px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.selfPoweredIoTDevicesInAgricul {
+  position: absolute;
+  left: 170px;
+  top: 1249px;
+  width: 1580px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock6 {
+  color: #000;
+  font-size: 30px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.textBlock7 {
+  margin-top: 0;
+}
+.labelWrapper4 {
+  font-size: 30px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.textBlock8 {
+  margin-top: 0;
+  color: #4dab2d;
+  font-size: 30px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.rectangle10 {
+  position: absolute;
+  left: 618px;
+  top: 1985px;
+  width: 1280px;
+  height: 460px;
+  background-color: #fff;
+}
+.theProblem {
+  color: #fff;
+  font-size: 50px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 909px;
+  top: 1538px;
+  width: 768px;
+  height: 131px;
+  flex-direction: column;
+}
+.ourInitialProductLaunchIntegra {
+  position: absolute;
+  left: 664px;
+  top: 2071px;
+  width: 1057px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock9 {
+  color: #000;
+  font-size: 30px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.textBlock10 {
+  margin-top: 0;
+}
+.labelWrapper5 {
+  font-size: 30px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.textBlock11 {
+  margin-top: 0;
+  color: #4dab2d;
+  font-size: 30px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+}
+.coffeeGround {
+  color: #000;
+  font-size: 30px;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1384px;
+  top: 3767px;
+  width: 1057px;
+  height: min-content;
+  flex-direction: column;
+}
+.pmfcIot1 {
+  position: absolute;
+  left: 0;
+  top: 445px;
+  width: 1920px;
+  height: 780px;
+  background-image:/* webpackIgnore: true */ url('/assets/pmfcIot1.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.selfPoweredDataCaptureDevicesF {
+  color: #000;
+  font-size: 120px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 229px;
+  top: 193px;
+  width: 1462px;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
