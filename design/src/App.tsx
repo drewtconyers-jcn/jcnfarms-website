@@ -9,6 +9,7 @@ import { TechnologyPMFCInfo } from './components/TechnologyPMFCInfo/TechnologyPM
 import { SustainabilityGreenhouse } from './components/SustainabilityGreenhouse/SustainabilityGreenhouse';
 import { SustainabilityMushroom } from './components/SustainabilityMushroom/SustainabilityMushroom';
 import { CustomNavbar } from './CustomNavbar';
+// import './CustomNavbar.module.css';
 
 interface Props {
   className?: string;
@@ -20,8 +21,8 @@ export const App: FC<Props> = memo(function App(props = {}) {
       <div className={`${resets.storybrainResets} ${classes.root}`}>
         <CustomNavbar />
           <Routes>
-           <Route path="/" element={<MainPage />} />
-           <Route path="/agriculture" element={<AgricultureContainer />} />
+          <Route path="/" element={<MainPage />} />
+            <Route path="/agriculture" element={<AgricultureContainer />} />
             <Route path="/technology" element={<TechnologyPMFCInfo />} />
             <Route path="/sustainability/greenhouse" element={<SustainabilityGreenhouse />} />
             <Route path="/sustainability/mushroom" element={<SustainabilityMushroom />} />
