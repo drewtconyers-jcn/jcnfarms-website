@@ -26,10 +26,10 @@ export const CustomNavbar: FC<Props> = memo(function CustomNavbar(props) {
           <Link to="/technology">Technology</Link>
         </li>
         <li>
-          <Link to="/sustainability/greenhouse">Greenhouse</Link>
+          <Link to="/produce">Produce</Link>
         </li>
         <li>
-          <Link to="/sustainability/mushroom">Mushroom</Link>
+          <Link to="/sustainability">Sustainability</Link>
         </li>
       </ul>
     </nav>

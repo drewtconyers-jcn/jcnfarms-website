@@ -1,9 +1,10 @@
 .root {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   background-color: #000000;
   padding: 16px;
+  height: 130px;
 }
 
 .logo {
@@ -26,17 +27,16 @@ ul {
 }
 
 li {
-  margin-left: 24px;
   font-family: 'NN Nouvelle Grotesk STD';
   font-style: normal;
   font-weight: 700;
   font-size: 30px;
   line-height: 36px;
   /* identical to box height */
-  color: #FFFFFF;
   position: relative;
   display: flex;
   align-items: center;
+  float: center;
 }
 
 li:before {
@@ -46,7 +46,6 @@ li:before {
   left: 0;
   height: 2px;
   width: 0;
-  background-color: #4DAB2D;
   transition: all 0.2s ease-in-out;
 }
 
@@ -59,20 +58,77 @@ li:focus:before {
   width: 100%;
 }
 
-@media (max-width: 768px) {
-  .root {
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 8px;
-  }
-  .logo {
-    margin-bottom: 16px;
-  }
-  li {
-    margin-left: 0;
-    margin-bottom: 8px;
-  }
-  li:before {
-    bottom: -2px;
-  }
+li:nth-child(1) {
+  color: #fff !important;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 530px;
+  top: 69px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+
+li:nth-child(2) {
+  color: #fff !important;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 707px;
+  top: 69px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+
+li:nth-child(3) {
+  color: #fff !important;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 902px;
+  top: 69px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+
+li:nth-child(4) {
+  color: #fff !important;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1105px;
+  top: 69px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+
+li:nth-child(5){
+  color: #fff !important;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: NN Nouvelle Grotesk STD, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+    'Noto Sans', 'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 1264px;
+  top: 69px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
 }

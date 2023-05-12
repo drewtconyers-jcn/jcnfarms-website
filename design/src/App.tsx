@@ -24,8 +24,8 @@ export const App: FC<Props> = memo(function App(props = {}) {
           <Route path="/" element={<MainPage />} />
             <Route path="/agriculture" element={<AgricultureContainer />} />
             <Route path="/technology" element={<TechnologyPMFCInfo />} />
-            <Route path="/sustainability/greenhouse" element={<SustainabilityGreenhouse />} />
-            <Route path="/sustainability/mushroom" element={<SustainabilityMushroom />} />
+            <Route path="/produce" element={<SustainabilityGreenhouse />} />
+            <Route path="/sustainability" element={<SustainabilityMushroom />} />
           </Routes>
         </div>
     </Router>
