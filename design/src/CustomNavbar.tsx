@@ -11,25 +11,25 @@ export const CustomNavbar: FC<Props> = memo(function CustomNavbar(props) {
   return (
     <nav className={`${classes.root} ${props.className}`}>
       <Link to="/">
-        <img className={classes.logo} alt="JCN Farms logo" />
+        <img className={classes.logo}/>
       </Link>
       <ul>
         <li>
-          <Link to="/" end>
+          <Link to="/" activeClassName={classes.active}>
             Overview
           </Link>
         </li>
         <li>
-          <Link to="/agriculture">Agriculture</Link>
+          <Link to="/agriculture" activeClassName={classes.active}>Agriculture</Link>
         </li>
         <li>
-          <Link to="/technology">Technology</Link>
+          <Link to="/technology" activeClassName={classes.active}>Technology</Link>
         </li>
         <li>
-          <Link to="/produce">Produce</Link>
+          <Link to="/produce" activeClassName={classes.active}>Produce</Link>
         </li>
         <li>
-          <Link to="/sustainability">Sustainability</Link>
+          <Link to="/sustainability" activeClassName={classes.active}>Sustainability</Link>
         </li>
       </ul>
     </nav>

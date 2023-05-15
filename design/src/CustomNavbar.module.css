@@ -5,6 +5,7 @@
   background-color: #000000;
   padding: 16px;
   height: 130px;
+  outline: none;
 }
 
 .logo {
@@ -17,6 +18,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  outline: none;
 }
 
 ul {
@@ -56,6 +58,11 @@ li:focus:before {
 
 .active:before {
   width: 100%;
+}
+
+li.active {
+  color: green;
+  /* Other styles */
 }
 
 li:nth-child(1) {
