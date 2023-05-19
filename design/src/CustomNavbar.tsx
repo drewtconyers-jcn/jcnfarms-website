@@ -9,27 +9,42 @@ interface Props {
 
 export const CustomNavbar: FC<Props> = memo(function CustomNavbar(props) {
   return (
-    <nav className={`${classes.root} ${props.className}`}>
+    <nav className={`${classes.root} ${props.className} custom-navbar`}>
       <Link to="/">
-        <img className={classes.logo}/>
+        <img className={classes.logo}></img>
       </Link>
       <ul>
         <li>
-          <Link to="/" activeClassName={classes.active}>
-            Overview
+          <Link to="/">
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           </Link>
         </li>
         <li>
-          <Link to="/agriculture" activeClassName={classes.active}>Agriculture</Link>
+          <Link to="/agriculture" className={classes.active}>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          </Link>
         </li>
         <li>
-          <Link to="/technology" activeClassName={classes.active}>Technology</Link>
+          <Link to="/technology" className={classes.active}>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;
+          </Link>
         </li>
         <li>
-          <Link to="/produce" activeClassName={classes.active}>Produce</Link>
+          <Link to="/produce" className={classes.active}>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          </Link>
         </li>
         <li>
-          <Link to="/sustainability" activeClassName={classes.active}>Sustainability</Link>
+          <Link to="/sustainability" className={classes.active}>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;
+          </Link>
         </li>
       </ul>
     </nav>
