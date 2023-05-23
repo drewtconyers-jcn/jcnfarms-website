@@ -23,8 +23,8 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  outline: none;
-  border-style: none;
+  /* outline: none;
+  border-style: none; */
 }
 
 ul {

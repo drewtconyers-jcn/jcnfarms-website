@@ -10,9 +10,9 @@ interface Props {
 export const CustomNavbar: FC<Props> = memo(function CustomNavbar(props) {
   return (
     <nav className={`${classes.root} ${props.className} custom-navbar`}>
-      <Link to="/">
+      {/* <Link to="/">
         <img className={classes.logo}></img>
-      </Link>
+      </Link> */}
       <ul>
         <li>
           <Link to="/">
@@ -29,8 +29,7 @@ export const CustomNavbar: FC<Props> = memo(function CustomNavbar(props) {
         <li>
           <Link to="/technology" className={classes.active}>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           </Link>
         </li>
         <li>
@@ -43,7 +42,7 @@ export const CustomNavbar: FC<Props> = memo(function CustomNavbar(props) {
           <Link to="/sustainability" className={classes.active}>
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;
           </Link>
         </li>
       </ul>
